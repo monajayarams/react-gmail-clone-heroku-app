@@ -1,0 +1,22 @@
+[
+  {
+      "messageId": "123abc",
+      "from": "Jane Doe",
+      "subject": "Re: Postgres Meetup Thursday"
+  },
+  {
+      "messageId": "456def",
+      "from": "Richard Roe",
+      "subject": "Lunch Next Week"
+  },
+  {
+      "messageId": "789aaa",
+      "from": "Alan Turing",
+      "subject": "Emacs Release Update"
+  },
+  {
+      "messageId": "098ddd",
+      "from": "Grace Hopper",
+      "subject": "New Compiler Version Available"
+  }
+]
